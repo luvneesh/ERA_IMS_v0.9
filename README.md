@@ -5,9 +5,9 @@ Developed by Muskan Aggarwal, Luvneesh Kumar, Shobhit Jagga. UG Students and mem
 V0.9 consists of a login page, User page and Admin page. 
 The back end is Written in PHP and the front-end is in CSS and Html5. The work on Back end has been completed for the following features : 
 ### Login Page 
-  -New User registration  
-  -Login for User and Administrator
-  -Reset password by Admin. 
+  - New User registration  
+  - Login for User and Administrator
+  - Reset password by Admin. 
 #### Work can be done in the future on 
   - Admin independent password reset
   - Captcha integration
@@ -21,7 +21,7 @@ The back end is Written in PHP and the front-end is in CSS and Html5. The work o
    - integrating  Search api 
    - QR code scanner for component. 
 ### Admin page 
-  -Current components  
+  - Current components  
   - checked out components  
   - Add component 
   - Logout 
